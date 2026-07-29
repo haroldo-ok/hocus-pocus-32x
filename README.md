@@ -10,6 +10,8 @@ game runs as 8bpp packed-pixel graphics straight out of the 32X framebuffer.
    rom/hocus32x.32x      <-- the compiled ROM (2.5 MB)
 ```
 
+Original source code: https://github.com/aroldanju/openpocus
+
 ---
 
 ## Quick start
